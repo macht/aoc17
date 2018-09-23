@@ -1,6 +1,6 @@
 total = 0
 
-with open('input/2a_input.txt', 'r') as file:
+with open('input/02_input.txt', 'r') as file:
     for line in file:
         low = high = None
         row = line.split()
