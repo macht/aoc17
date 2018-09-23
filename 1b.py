@@ -1,4 +1,4 @@
-with open('1a_input.txt', 'r') as file:
+with open('input/1a_input.txt', 'r') as file:
     data = file.read()  
 
 data = data.rstrip()    # strip newline char
